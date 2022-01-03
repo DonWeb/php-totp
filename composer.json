@@ -1,5 +1,5 @@
 {
-    "name": "lfkeitel/phptotp",
+    "name": "donweb/phptotp",
     "description": "TOTP/HOTP library for PHP",
     "keywords": [
         "totp",
